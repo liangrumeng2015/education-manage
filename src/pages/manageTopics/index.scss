@@ -1,0 +1,12 @@
+.wrapper{
+    .content{
+        display: flex;
+        width: 820px;
+        background-color: pink;
+        overflow-x: scroll;
+        .itemwraper{
+            text-align: center;
+        }
+    }
+    
+}

@@ -1,0 +1,15 @@
+// 登录的scss
+.form_part{
+    width: 30%;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    .txt{
+        text-align: center;
+        font-size: 26px;
+    }
+    Button{
+        width: 100%;
+    }
+}
